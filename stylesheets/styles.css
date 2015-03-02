@@ -22,7 +22,7 @@ header{
 	border-right:1px dotted #999;
 	padding: 5px;
 	vertical-align: top;
-	min-height: 100%;
+	min-height: 100vh;
 }
 .item{
 	margin-bottom: 20px; 
